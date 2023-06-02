@@ -44,6 +44,7 @@
 		1FEABAFB2A2A6DD100AFE8A7 /* DataSenseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DataSenseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FEABAFF2A2A6DD100AFE8A7 /* DataSenseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSenseUITests.swift; sourceTree = "<group>"; };
 		1FEABB012A2A6DD100AFE8A7 /* DataSenseUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSenseUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B54D93A77AA9F880BE697448 /* build.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.yaml; name = build.yml; path = .github/build.yml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 				1FEABAF42A2A6DD100AFE8A7 /* DataSenseTests */,
 				1FEABAFE2A2A6DD100AFE8A7 /* DataSenseUITests */,
 				1FEABAE22A2A6DD000AFE8A7 /* Products */,
+				B54D93A77AA9F880BE697448 /* build.yml */,
 			);
 			sourceTree = "<group>";
 		};
